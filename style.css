@@ -6,3 +6,10 @@ body{
 div{
     margin-bottom: 20px;
 }
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    border-spacing: 20px;
+}
