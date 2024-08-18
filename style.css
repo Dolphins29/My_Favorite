@@ -13,3 +13,23 @@ table{
     text-align: left;
     border-spacing: 20px;
 }
+
+.image{
+    width: 500px;
+    height: 500px;
+}
+
+input{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+input:hover{
+    cursor: pointer;
+}
